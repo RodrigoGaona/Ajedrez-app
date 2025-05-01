@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\proyecto final.props" />
-</Project>
