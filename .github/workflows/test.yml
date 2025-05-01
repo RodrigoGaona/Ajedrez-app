@@ -1,13 +1,7 @@
 name: Pruebas Unitarias
 
 on:
-  push:
-    branches:
-      - main
-      - feature/Gaona
-  pull_request:
-    branches:
-      - main
+  workflow_dispatch
 
 jobs:
   test:
